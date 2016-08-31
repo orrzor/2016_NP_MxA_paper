@@ -1,0 +1,20 @@
+# input file for running script mapmuts_makealignments.py for makealignments
+maxa2m 1
+generange 62 1555
+write_unaligned True
+r2files /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/FASTQ_files/DNA-1_2.fastq
+maxa1m 1
+a1file /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/input/R1_adapter_AR003.fa
+gzipped False
+minq 25
+minoverlap 100
+fullgenefile /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/input/Aichi68-NP_amplicon.fa
+r1files /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/FASTQ_files/DNA-1_1.fastq
+a2file /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/input/R2_adapterUniversal_RC.fa
+maxrm 1
+outfileprefix replicate-1-DNA
+maxn 5
+maxgenem 10
+applyfilter True
+samplename replicate-1, DNA
+upcase test

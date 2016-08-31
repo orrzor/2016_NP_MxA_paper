@@ -1,0 +1,12 @@
+# input file for running script mapmuts_parsesummaryplots.py for parsesummaryplots
+/fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/DNA/replicate-2-DNA 2 DNA
+/fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/mutDNA/replicate-2-mutDNA 2 mutDNA
+/fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/vir/replicate-2-vir 2 vir
+/fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/mutvir/replicate-2-mutvir 2 mutvir
+/fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/mutvir_MS/replicate-2-mutvir_MS 2 mutvir_MS
+/fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/mutvir_MxA/replicate-2-mutvir_MxA 2 mutvir_MxA
+/fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/mutvir_MxAneg/replicate-2-mutvir_MxAneg 2 mutvir_MxAneg
+plotfileprefix /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/parsesummary
+writefracs True
+textwritefracs /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/parsesummary
+pairedcodonplot True

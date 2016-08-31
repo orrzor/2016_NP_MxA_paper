@@ -1,0 +1,9 @@
+# input file for running script mapmuts_parsecounts.py for parsecounts
+generange 62 1555
+samplename replicate-1, vir
+r1exclude 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+r2exclude 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+alignmentfile /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-1/vir/replicate-1-vir_alignments.txt.gz
+outfileprefix replicate-1-vir
+upcase test
+fullgenefile /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/input/Aichi68-NP_amplicon.fa

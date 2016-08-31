@@ -1,0 +1,63 @@
+Beginning execution of mapmuts_parsecounts.py in directory /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/DNA
+
+****************************************************
+Version information for mapmuts and associated programs.
+
+Time and date: Tue Aug 30 20:50:50 2016
+
+Platform: Linux-3.13.0-49-generic-x86_64-with-Ubuntu-14.04-trusty
+
+Python version: 2.7.6 (default, Mar 22 2014, 22:59:56) 
+[GCC 4.8.2]
+
+mapmuts version: 1.1
+
+numpy version: 1.10.2
+
+pymc version: 2.3.3
+
+scipy version: 0.16.1
+
+matplotlib version: 1.5.0
+
+pyPdf version: pyPdf is available, but no version string accessible
+
+pdflatex version: pdfTeX 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian)
+kpathsea version 6.1.1
+Copyright 2013 Peter Breitenlohner (eTeX)/Han The Thanh (pdfTeX).
+There is NO warranty.  Redistribution of this software is
+covered by the terms of both the pdfTeX copyright and
+the Lesser GNU General Public License.
+For more information about these matters, see the file
+named COPYING and the pdfTeX source.
+Primary author of pdfTeX: Peter Breitenlohner (eTeX)/Han The Thanh (pdfTeX).
+Compiled with libpng 1.2.49; using libpng 1.2.50
+Compiled with zlib 1.2.8; using zlib 1.2.8
+Compiled with poppler version 0.24.5
+
+weblogo version: WebLogo 3.4 (2014-06-02)
+****************************************************
+
+Input data being read from infile parsecounts_infile.txt
+
+Progress being logged to this file, replicate-2-DNA_parsecounts_log.txt
+
+Read the following key/value pairs from infile parsecounts_infile.txt:
+generange 62 1555
+samplename replicate-2, DNA
+r1exclude 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+r2exclude 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+alignmentfile /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/DNA/replicate-2-DNA_alignments.txt.gz
+outfileprefix replicate-2-DNA
+upcase test
+fullgenefile /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/input/Aichi68-NP_amplicon.fa
+
+<type 'exceptions.IOError'>
+
+Cannot find specified file /fh/fast/bloom_j/grp/oashenbe/2016_NP_MxA_paper/replicate-2/DNA/replicate-2-DNA_alignments.txt.gz
+
+<traceback object at 0x7fbee77bad40>
+
+Prematurely closing log due to execution error.
+
+Execution completed at Tue Aug 30 20:50:51 2016.
